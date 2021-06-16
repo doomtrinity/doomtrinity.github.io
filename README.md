@@ -26,6 +26,6 @@ Mostly Doom 3 stuff. Unfortunately, some projects never saw the light of day.
 2016/2019 - Backend web developer (web server programming and administration).
 
 ## Links
-- GitHub: https://github.com/doomtrinity
-- ModDB: https://www.moddb.com/members/doomtrinity
-- YouTube: https://www.youtube.com/channel/UC9GW_qyhMwibSBWK9R6ii1Q
+- GitHub: [https://github.com/doomtrinity](https://github.com/doomtrinity)  
+- ModDB: [https://www.moddb.com/members/doomtrinity](https://www.moddb.com/members/doomtrinity)  
+- YouTube: [https://www.youtube.com/channel/UC9GW_qyhMwibSBWK9R6ii1Q](https://www.youtube.com/channel/UC9GW_qyhMwibSBWK9R6ii1Q)  
