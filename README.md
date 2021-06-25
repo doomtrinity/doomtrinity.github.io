@@ -11,7 +11,8 @@ FPS inspired by the combat pacing of Doom '94 and the looks of Doom 3, using Unr
 I’m currently working on this project.
 
 ### [Arx: End of Sun](https://www.moddb.com/mods/arx-end-of-sun)
-Free game based on the first person dungeon RPG: Arx Fatalis, developed by Arkane Studios. Total conversion based on the idTech4 (Doom 3) engine.
+Free game based on the first person dungeon RPG: Arx Fatalis, developed by Arkane Studios.  
+Total conversion based on the idTech4 (Doom 3) engine.
 
 ### [Perfected Doom 3](https://www.moddb.com/mods/perfected-doom-3-version-500)
 Doom 3 mod that brings many improvements to vanilla Doom 3 and Resurrection of Evil expansion.
