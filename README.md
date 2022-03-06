@@ -1,14 +1,11 @@
 # Lorenzo Citron
 
-Game programmer at [From Beneath Software](https://www.from-beneath-software.com/)
-
 ## My work on games
 I write game code, but I also deal with other side tasks, especially first-person model animations.  
 Some projects I’ve worked on:
 
 ### [Retchid](https://store.steampowered.com/app/1419060/Retchid/)
 FPS inspired by the combat pacing of Doom '94 and the looks of Doom 3, using Unreal Engine 4.  
-I’m currently working on this project.
 
 ### [Arx: End of Sun](https://www.moddb.com/mods/arx-end-of-sun)
 Free game based on the first person dungeon RPG: Arx Fatalis, developed by Arkane Studios.  
