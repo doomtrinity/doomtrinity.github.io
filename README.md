@@ -21,7 +21,7 @@ A very simple project I made to learn the basics of the Unity3D gameplay framewo
 Mostly Doom 3 stuff. Unfortunately, some projects never saw the light of day.
 
 ## Other work as programmer
-2016/2019 - Backend web developer (web server programming and administration).
+2016/2019 - Web server programming and administration.
 
 ## Links
 - [GitHub](https://github.com/doomtrinity)  
