@@ -1,8 +1,10 @@
 # Lorenzo Citron
 
-## My work on games
-I write game code, but I also deal with other side tasks, especially first-person model animations.  
-Some projects I’ve worked on:
+I work on game code, but I occasionally deal with other tasks related to game development. My past work experience also includes web server programming and administration.
+
+Some of the recent games I worked on as an online programmer include [HOT WHEELS UNLEASHED™ 2 - Turbocharged](https://store.steampowered.com/app/2051120/HOT_WHEELS_UNLEASHED_2__Turbocharged/) and [Monster Energy Supercross 25](https://store.steampowered.com/app/2581370/Monster_Energy_Supercross_25__The_Official_Video_Game/).
+
+Some older projects I’ve worked on:
 
 ### [Retchid](https://store.steampowered.com/app/1419060/Retchid/)
 FPS inspired by the combat pacing of Doom '94 and the looks of Doom 3, using Unreal Engine 4.  
@@ -19,9 +21,6 @@ A very simple project I made to learn the basics of the Unity3D gameplay framewo
 
 ### Other projects/mods and unreleased work
 Mostly Doom 3 stuff. Unfortunately, some projects never saw the light of day.
-
-## Other work as programmer
-2016/2019 - Web server programming and administration.
 
 ## Links
 - [GitHub](https://github.com/doomtrinity)  
